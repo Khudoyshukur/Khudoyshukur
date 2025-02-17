@@ -23,7 +23,7 @@
   <li>
     <g-emoji class="g-emoji">
       <img class="emoji" alt="iphone" height="20" width="20" src="https://github.githubassets.com/images/icons/emoji/unicode/1f4eb.png">
-    </g-emoji>  Contact me on <a href="https://t.me/kjuraev">Telegram</a> or on <a href="https://www.linkedin.com/in/khudoyshukur">LinkedIn</a>
+    </g-emoji>  Contact me on <a href="https://t.me/imdrodev">Telegram</a> or on <a href="https://www.linkedin.com/in/khudoyshukur">LinkedIn</a>
   </li>
 </ul>
 
