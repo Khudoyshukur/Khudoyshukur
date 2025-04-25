@@ -2,7 +2,7 @@
 
 # Hello, folks! <img src="https://user-images.githubusercontent.com/60431559/188269991-962bc877-11bf-42ac-ab6c-8ef63994cb7b.gif" width="30px" height="30px" />
 
-### My name is Xudoyshukur and I'm a software engineer. I'm from Uzbekistan, living in Tashkent and currently working at Commeta.
+### My name is Xudoyshukur and I'm a software engineer. I'm from Uzbekistan, living in Tashkent and currently working at SabGames.
 
 <ul>
   <li>
